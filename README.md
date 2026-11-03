@@ -29,6 +29,7 @@ Bem-vindo(a) ao repositório do meu portfólio pessoal! Este projeto foi desenvo
 
 - 🎓 Graduanda em **Sistemas de Informação** na **Universidade Federal de Sergipe (UFS)** - 8º período.
 - 💻 Foco de atuação: **C# / .NET**, **ASP.NET Core MVC**, **Entity Framework Core**, **SQL Server** e **Testes Automatizados**.
+- 📐 Modelagem & Planejamento: **StarUML** (UML - Classes, Casos de Uso, Sequência), **Bizagi Modeler** (BPMN) e **Engenharia de Requisitos**.
 - 🌟 Experiência prática na **ItaTech Jr.** (Empresa Júnior de TI) e projetos em equipe com Git Flow.
 
 ---
