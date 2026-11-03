@@ -42,3 +42,4 @@ Bem-vindo(a) ao repositório do meu portfólio pessoal! Este projeto foi desenvo
 ---
 
 Desenvolvido por **Lorena Pereira Nascimento** © 2026.
+
